@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="596aeee3-bcf2-4176-b4ff-c41ba4f4624c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000746" />
+      <entry key="S2" value="1.0005266738596459" />
+      <entry key="S5" value="1.055532668831691" />
+      <entry key="S10" value="1.3034255855014847" />
+      <entry key="S30" value="2.040462137296605" />
+      <entry key="S60" value="2.4935747961797246" />
+      <entry key="M2" value="3.492767287084921" />
+      <entry key="M5" value="8.555418117346719" />
+      <entry key="M10" value="17.2302659094748" />
+      <entry key="M15" value="24.98341870051285" />
+      <entry key="M30" value="44.03415308846013" />
+      <entry key="H1" value="70.11637073210446" />
+      <entry key="H2" value="114.49849992370952" />
+      <entry key="H4" value="194.6774758260461" />
+      <entry key="D1" value="400.88540378169694" />
+      <entry key="W1" value="466.66548835269396" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.7756322773586386E-51" />
+      <entry key="MS500" value="7.077349120780219E-11" />
+      <entry key="S2" value="0.002938892685377527" />
+      <entry key="S5" value="0.11373614075932689" />
+      <entry key="S10" value="0.4417056028209561" />
+      <entry key="S30" value="1.1851872185524148" />
+      <entry key="S60" value="1.5470591610788353" />
+      <entry key="M2" value="1.9254243826515294" />
+      <entry key="M5" value="2.8480468555692466" />
+      <entry key="M10" value="3.7289594406484214" />
+      <entry key="M15" value="4.289492713592344" />
+      <entry key="M30" value="5.344773844066788" />
+      <entry key="H1" value="6.451449517390423" />
+      <entry key="H2" value="7.720396181371472" />
+      <entry key="H4" value="9.430414397340572" />
+      <entry key="D1" value="13.471839546902707" />
+      <entry key="W1" value="14.758193645989158" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686181892274024" />
+      <entry key="S2" value="0.9931954714258363" />
+      <entry key="S5" value="1.104269129827116" />
+      <entry key="S10" value="1.5901970308427062" />
+      <entry key="S30" value="3.0603143758853433" />
+      <entry key="S60" value="3.926732336675548" />
+      <entry key="M2" value="5.3402009807125" />
+      <entry key="M5" value="11.344285666885188" />
+      <entry key="M10" value="20.911168098555024" />
+      <entry key="M15" value="29.23008591443777" />
+      <entry key="M30" value="49.344157769716766" />
+      <entry key="H1" value="76.54165685184076" />
+      <entry key="H2" value="122.1985931420228" />
+      <entry key="H4" value="204.09113716758702" />
+      <entry key="D1" value="414.3515913411" />
+      <entry key="W1" value="481.4227440346795" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MEnk7wwG3kLr1B5f09htRzP41e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.task_3.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="task_3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/task_3.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596aeee3-bcf2-4176-b4ff-c41ba4f4624c" name="Changes" comment="" />
+      <created>1794924740859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794924740859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
